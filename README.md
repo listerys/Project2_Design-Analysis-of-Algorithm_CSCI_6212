@@ -1,6 +1,5 @@
-# Project2_Design-Analysis-of-Algorithm_CSCI_6212
-
-## QuickSelect Algorithm Implementation in Java
+# Design Analysis of Algorithm CSCI 6212
+QuickSelect Algorithm Implementation in Java
 
 ## Overview
 
